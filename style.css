@@ -1,0 +1,66 @@
+body{
+  background-size: cover;
+  background-image: url(background.jpg);
+  box-sizing: border-box;
+}
+
+.container{
+  background-color: black;
+  background-size: cover;
+  opacity: 0.6;
+  padding:100px;
+
+
+
+
+}
+.container2{
+  width: 1000px;
+  margin: auto;
+  color: white;
+}
+
+.logo-text{text-align: center;
+  width: 70%;
+  margin:auto;
+}
+
+.logo{
+  width: 200px;
+}
+
+#text{
+  color: lime;
+
+}
+
+.seleziona{
+  background-color: lime;
+  color: white;
+  padding: 10px
+
+}
+#status-battery-1{
+  height: 20px;
+  width: 25%;
+  background-color: orange;
+  margin-left: 0;
+  border-color: black;
+}
+
+
+#status-battery-2{
+  height: 20px;
+  width: 50%;
+  background-color: green;
+  margin-left: 0;
+  border-color: black;
+}
+
+#status-battery-3{
+  height: 20px;
+  width: 10%;
+  background-color: red;
+  margin-left: 0;
+  border-color: black;
+}
